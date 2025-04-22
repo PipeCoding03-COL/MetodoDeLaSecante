@@ -1,0 +1,15 @@
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\bin\Debug\net8.0\MetodoDeLaSecante.exe
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\bin\Debug\net8.0\MetodoDeLaSecante.deps.json
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\bin\Debug\net8.0\MetodoDeLaSecante.runtimeconfig.json
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\bin\Debug\net8.0\MetodoDeLaSecante.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\bin\Debug\net8.0\MetodoDeLaSecante.pdb
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.AssemblyInfoInputs.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.AssemblyInfo.cs
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.csproj.CoreCompileInputs.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.sourcelink.json
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\refint\MetodoDeLaSecante.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.pdb
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\MetodoDeLaSecante.genruntimeconfig.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\MetodoDeLaSecante\obj\Debug\net8.0\ref\MetodoDeLaSecante.dll
