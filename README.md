@@ -35,4 +35,4 @@ git clone https://github.com/PipeCoding03-COL/MetodoDeLaSecante.git
 
 ## Realizado por:
 ### Andrés F. Martínez V.
-### Maira A. Ramírez V.
+### Maira A. Rodriguez V.
