@@ -24,7 +24,7 @@ Una implementación eficiente y didáctica del método numérico de la secante p
 - .NET Core 3.1 o superior
 - Visual Studio 2019/VSCode (recomendado)
 
-## 🚀 Cómo Usar
+## Cómo Usar
 
 1. Clona el repositorio:
 ```bash
