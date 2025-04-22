@@ -28,7 +28,7 @@ Una implementación eficiente y didáctica del método numérico de la secante p
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/metodo-secante.git
+git clone https://github.com/PipeCoding03-COL/MetodoDeLaSecante.git
 ```
 
 2. Ejecuta el software y sigue las instrucciones.
