@@ -24,8 +24,15 @@ Una implementación eficiente y didáctica del método numérico de la secante p
 - .NET Core 3.1 o superior
 - Visual Studio 2019/VSCode (recomendado)
 
-## Cómo Usar
+## Cómo usar
 
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/metodo-secante.git
+```
+
+2. Ejecuta el software y sigue las instrucciones.
+
+## Realizado por:
+### Andrés F. Martínez V.
+### Maira A. Ramírez V.
