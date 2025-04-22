@@ -1,4 +1,4 @@
-# 🧮 Calculadora del Método de la Secante en C# 
+# Calculadora del Método de la Secante en C# 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -6,7 +6,7 @@
 
 Una implementación eficiente y didáctica del método numérico de la secante para encontrar raíces de funciones, perfecta para aplicaciones académicas y profesionales.
 
-## ✨ Características Principales
+## Características Principales
 
 - **Algoritmo preciso** que implementa el método de la secante
 - **Soporte completo** para expresiones matemáticas:
@@ -19,7 +19,7 @@ Una implementación eficiente y didáctica del método numérico de la secante p
   - Evaluación de la función (f(xₙ), f(xₙ₊₁))
   - Cálculo del error en cada iteración
 
-## 📦 Requisitos
+## Requisitos
 
 - .NET Core 3.1 o superior
 - Visual Studio 2019/VSCode (recomendado)
